@@ -1,0 +1,33 @@
+body {
+    background-color: #1E1E1E;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Mulish';
+    color: #02799D;
+    margin: 5px;
+}
+h3 {
+    font-family: 'Mulish';
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin: 5px;
+}
+
+p {
+    font-family: 'Mulish';
+    color: #ffffff;
+    margin: 5px;
+}
+
+
+
