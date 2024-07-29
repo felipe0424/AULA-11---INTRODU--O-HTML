@@ -4,7 +4,7 @@
     </div>
 </body>
 
-# :rocket: Sobre Mim 
+# :rocket: Sobre o Projeto
 
 Olá! Sou **Felipe Ramos**, um **Desenvolvedor Front-End** apaixonado por criar experiências digitais incríveis. 
 
@@ -14,7 +14,7 @@ Sou um profissional **comprometido, proativo e apaixonado por aprender**. Busco 
 
 **Confira meu portfólio para ver meus trabalhos:**
 
-<a align='center' href="https://felipe0424.github.io/PortfolioDev/src/public/index.html"> Acessar Porfólio </a>
+<a align='center' href="https://felipe0424.github.io/projeto-galaxia"> Acessar Projeto Galáxias </a>
 
 
 #  :computer:	Habilidades e técnicas 
