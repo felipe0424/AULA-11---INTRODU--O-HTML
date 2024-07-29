@@ -7,11 +7,9 @@
 </body>
 
 # :rocket: Sobre o Projeto
-
 O projeto "As Maiores Galáxias" de Nível 3 visa aperfeiçoar a usabilidade de HTML5, CSS3 e a gestão de projetos, enfatizando a organização das informações em divs e a divisão de blocos, com títulos e descrições claras.
 
 ### Objetivos
-
 HTML5: Utilização das novas tags semânticas para melhorar a estrutura e acessibilidade do conteúdo.
 CSS3: Aplicação de estilos avançados para tornar o design mais atraente e responsivo.
 Gestão de Projetos: Implementação de boas práticas para organizar e gerir o desenvolvimento do projeto, garantindo entregas eficientes e de alta qualidade.
