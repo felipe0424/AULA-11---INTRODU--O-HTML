@@ -1,20 +1,34 @@
 <body>
-    <div align="center" >
+    <div align="center">
+        <a href="https://felipe0424.github.io/projeto-galaxia" target="_blank">
         <img src="src/assets/images/galaxia.png" alt="galaxia" width="auto">
+        </a>
     </div>
 </body>
 
 # :rocket: Sobre o Projeto
 
-Olá! Sou **Felipe Ramos**, um **Desenvolvedor Front-End** apaixonado por criar experiências digitais incríveis. 
+O projeto "As Maiores Galáxias" de Nível 3 visa aperfeiçoar a usabilidade de HTML5, CSS3 e a gestão de projetos, enfatizando a organização das informações em divs e a divisão de blocos, com títulos e descrições claras.
 
-Tenho experiência em **HTML, CSS, JavaScript** e frameworks como **React e Angular**. Já desenvolvi projetos front-end, desde sites responsivos até aplicações web complexas. 
+### Objetivos
 
-Sou um profissional **comprometido, proativo e apaixonado por aprender**. Busco constantemente aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
+HTML5: Utilização das novas tags semânticas para melhorar a estrutura e acessibilidade do conteúdo.
+CSS3: Aplicação de estilos avançados para tornar o design mais atraente e responsivo.
+Gestão de Projetos: Implementação de boas práticas para organizar e gerir o desenvolvimento do projeto, garantindo entregas eficientes e de alta qualidade.
+
+### Estrutura do Projeto
+Divisões de Blocos: O projeto utiliza uma abordagem modular, onde o conteúdo é dividido em blocos distintos. Cada bloco possui um título e uma descrição, facilitando a leitura e a navegação.
+Responsividade: As páginas são projetadas para serem totalmente responsivas, garantindo uma experiência consistente em diferentes dispositivos.
+Design Atraente: Utilização de CSS3 para criar um design visualmente atraente, com foco na experiência do usuário (UX).
+
+### Tecnologias Utilizadas
+HTML5: Para a estruturação do conteúdo.
+CSS3: Para a estilização e responsividade.
+JavaScript: Para adicionar interatividade quando necessário.
 
 **Confira meu portfólio para ver meus trabalhos:**
 
-<a align='center' href="https://felipe0424.github.io/projeto-galaxia"> Acessar Projeto Galáxias </a>
+<a align='center' href="https://felipe0424.github.io/PortfolioDev" target="_blank"> Acessar Portfólio </a>
 
 
 #  :computer:	Habilidades e técnicas 
