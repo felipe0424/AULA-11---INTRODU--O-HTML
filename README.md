@@ -1,7 +1,7 @@
 <body>
     <div align="center">
         <a href="https://felipe0424.github.io/projeto-galaxia" target="_blank">
-        <img src="src/assets/images/galaxia.png" alt="galaxia" width="auto">
+        <img src="src/assets/images/galaxia.svg" alt="galaxia" width="auto">
         </a>
     </div>
 </body>
