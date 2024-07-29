@@ -19,7 +19,7 @@ Divisões de Blocos: O projeto utiliza uma abordagem modular, onde o conteúdo �
 Responsividade: As páginas são projetadas para serem totalmente responsivas, garantindo uma experiência consistente em diferentes dispositivos.
 Design Atraente: Utilização de CSS3 para criar um design visualmente atraente, com foco na experiência do usuário (UX).
 
-### Tecnologias Utilizadas
+### :bulb: Tecnologias Utilizadas
 HTML5: Para a estruturação do conteúdo.
 CSS3: Para a estilização e responsividade.
 JavaScript: Para adicionar interatividade quando necessário.
