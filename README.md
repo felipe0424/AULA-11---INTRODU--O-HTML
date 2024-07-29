@@ -26,7 +26,7 @@ JavaScript: Para adicionar interatividade quando necessário.
 
 **Confira meu portfólio para ver meus trabalhos:**
 
-<div align="center">
+<div>
     <a href="https://felipe0424.github.io/PortfolioDev" target="_blank" rel="noopener noreferrer"> Acessar Portfólio</a>
 </div>
 
