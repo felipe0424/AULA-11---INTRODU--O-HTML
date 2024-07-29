@@ -27,9 +27,7 @@ JavaScript: Para adicionar interatividade quando necessário.
 **Confira meu portfólio para ver meus trabalhos:**
 
 <div align="center">
-    <a href="https://felipe0424.github.io/PortfolioDev" target="_blank" rel="noopener noreferrer">
-        <img src="src/assets/images/galaxia.png" alt="galaxia" width="auto">
-    </a>
+    <a href="https://felipe0424.github.io/PortfolioDev" target="_blank" rel="noopener noreferrer"> Acessar Portfólio</a>
 </div>
 
 
